@@ -31,7 +31,6 @@ Ornob Alam is a PhD candidate at New York University.
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
           <li><a href="https://twitter.com/genomeinquirer">Twitter (@genomeinquirer)</a></li>
       </ul>
   </div>
