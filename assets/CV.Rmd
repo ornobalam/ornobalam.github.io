@@ -1,0 +1,121 @@
+---
+title: "CV"
+author: "Ornob Alam"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+---
+ 
+#### Email: oa832@nyu.edu; ornobalam@icddrb.org
+ 
+### Education 
+New York University, New York, NY, USA\
+Ph.D., Biology, August 2019- Present\
+Thesis Advisor: Michael Purugganan  
+
+Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA\
+Sc.M. 	, Molecular Microbiology & Immunology, 2015\
+Thesis Advisor: Sabra Klein  
+  
+Florida State University, Tallahassee, FL, USA\
+B.Sc., Biological Science, 2013  
+
+ 
+### Employment History
+International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), Dhaka, Bangladesh\
+Scientific Writer (remote), March 2022- Present  
+
+New York University, New York, USA\
+Graduate Teaching Assistant\
+a.	Applied Genomics, January 2022- May 2022\
+b.	Principles of Biology I, September 2020- December 2020  
+
+Nature Portfolio, Springer Nature, New York, USA\
+Editorial Fellow, June 2021- August 2021  
+
+Independent University, Bangladesh, Dhaka, Bangladesh\
+January 2016- August 2019\
+a.	Lecturer, School of Life Sciences\
+b.	Research Associate, Center for Health, Population, and Development  
+
+Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA\
+Research Associate, Sabra Klein’s Lab, September 2014- May 2015 
+
+### Research
+Michael Purugganan’s Lab at NYU, May 2020- Present\
+Studying the demographic and adaptive history of domesticated Asian rice (Oryza sativa), using next-generation sequencing and population genetics methodologies  
+
+Center for Health, Population, and Development (CHPD), Independent University, Bangladesh, January 2016- August 2019\
+Wrote research grants and ethics proposals for large-scale epidemiological studies, and contributed to study and questionnaire design  
+
+Sabra Klein’s Lab at Johns Hopkins, January 2014- May 2015\
+Investigated the effects of testosterone on the outcome of influenza infections in a mouse model  
+
+David Gilbert’s Lab at Florida State University, January 2012- May 2013\
+Performed molecular cloning of a gene relevant to the study of replication timing in embryonic stem cells
+
+### Academic Publications
+Alam O, Yusuf R, Rahman O. The Impact of Partition on East Pakistan: Toward a More Nuanced Central Narrative. In The 1947 Partition of British India: Forced Migration and Its Reverberations, edited by Jennifer Leaning and Shubhangi Bhadada, pg. 129-156. 2022; SAGE Spectrum, ISBN-10: 9354792901  
+
+Khanna T… Alam O et al. Crowdsourcing Memories: Process of Narrative Collection of the Survivors of Partition. In The 1947 Partition of British India: Forced Migration and Its Reverberations, edited by Jennifer Leaning and Shubhangi Bhadada, pg. 103-128. 2022; SAGE Spectrum, ISBN-10: 9354792901  
+
+Choy JY… Alam O, Purugganan MD et al. Ancestral polymorphisms shape the adaptive radiation of Metrosideros across the Hawaiian Islands. Proceedings of the National Academy of Sciences. 2021, 118 (37) e2023801118; DOI: 10.1073/pnas.2023801118  
+
+Alam O, Gutaker RM, Wu CC… Purugganan MD et al. Genome analysis traces regional dispersal of rice in Taiwan and Southeast Asia. Molecular Biology & Evolution. 2021; msab209, https://doi.org/10.1093/molbev/msab209  
+
+Yeboah G… Alam O et al. Analysis of OpenStreetMap Data Quality at Different Stages of a Participatory Mapping Process: Evidence from Slums in Africa and Asia. ISPRS International Journal of Geo-Information. 2021; 10(4):265. https://doi.org/10.3390/ijgi10040265  
+
+Improving Health in Slums Collaborative. A protocol for a multi-site, spatially-referenced household survey in slum settings: methods for access, sampling frame construction, sampling, and field data collection. BMC Med Res Methodol. 2019;19(1):109. doi:10.1186/s12874-019-0732-x  
+
+Vom Steeg LG… Alam O, Klein SL  et al. Age and testosterone mediate influenza pathogenesis in male mice. Am J Physiol Lung Cell Mol Physiol. 2016;311(6):L1234–L1244. doi:10.1152/ajplung.00352.2016 
+
+### Conference Talks & Posters
+Alam O… Purugganan MD et al. Genome analysis traces regional dispersal of rice in Taiwan and Southeast Asia. Talk. Evolution, 2022  
+
+Alam O… Purugganan MD et al. Genome analysis traces regional dispersal of rice in Taiwan and Southeast Asia. Talk. Society for Molecular Biology and Evolution Meeting, 2021  
+
+Alam O… Klein SL et al. Testosterone Protects Young and Old Male Mice Against Influenza A Virus Infection. Poster. 8th Annual Research on Aging Showcase Poster Competition, Johns Hopkins Bloomberg School of Public Health, 2015  
+
+Alam O & Gilbert DM. Is Late Replication Necessary for G9a-Mediated Methylation to Occur? Talk. Undergraduate Research and Creative Activities Awards Symposium, Florida State University, 2012
+
+### Science Communication
+Research Highlights. Nature Genetics. August & September 2021  
+
+Genomic windows into ancient climate change. Molecular Ecologist. 2021\
+More in Molecular Ecologist: https://www.molecularecologist.com/?s=ornob+alam  
+
+Unbraiding the Neanderthal knot in human evolutionary history. Nature Ecology & Evolution Community. 2022\
+More in Nature Ecology & Evolution Community: 
+https://ecoevocommunity.nature.com/users/ornob-alam  
+
+Unmasking an ancient scourge. Small Things Considered. 2021  
+
+Research highlights and explainers for icddr,b, for example: \
+icddr,b scientists help reveal a striking geographical pattern of influenza virus epidemics in Bangladesh. 2022  
+
+Designed, curated, and edited a blog featuring science communication articles by undergraduates in the School of Life Sciences at Independent University, Bangladesh, March 2017- March 2019\
+http://herebedragonssls.blogspot.com
+
+### Honors & Awards 
+Eugene Bell Award at the New York University Biology Graduate program, 2021  
+
+QBIST (Quantitative Biological Systems Training) Training Grant, NIH Project Number: 1T32GM132037-01, 2020  
+
+1st place winner (Student category) of 8th Annual Research on Aging Showcase Poster Competition, 2015  
+
+Recipient of a Minority Summer Stipend from NIAR37AG021092 awarded to Barry Zirkin, 2014  
+
+Recipient of a Federal Work-Study Award, 2014  
+
+Undergraduate Research and Creative Activities Award, 2012
+
+### Service
+Facilitator, Respect is a Part of Research (RPR) Workshop, New York University, 2020 & 2022\
+RPR is a peer-to-peer workshop for first-year PhD students in the Biology department that serves as a space for open discussions on the best steps to take in a situation in which members may experience or witness disrespectful behavior  
+
+Mentor, Summer Undergraduate Research Program (SURP), June 2021- August 2021\
+Designed and supervised a project on visualizing and analyzing human ancient genetic data, led by talented undergraduate Temima Yellin over the summer and the subsequent academic year
