@@ -1,18 +1,18 @@
 ---
 layout: page
 title: Blog
-subtitle: Where I chronicle my experiences as a graduate student and practice my science communication skills
+subtitle: "Where I chronicle my experiences as a graduate student and practice my science communication skills"
 output: html_document
 
 ---
 
-<img align="left" width="80" height="80" src="../assets/logo.webp" alt="Genome Inquirer">
+<img align="left" width="80" height="80" src="../assets/logo.png" alt="Genome Inquirer">
 # Genome Inquirer
 &nbsp;  
 &nbsp;  
 &nbsp;  
 
-<table style="padding:10px" border=0>
+<table style="padding:50px" border=0>
   <tr>
     <td> 
          <img src="../assets/climate_thumbnail.jpeg"  alt="1" width = 279px height = 496px ></td>
