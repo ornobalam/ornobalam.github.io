@@ -10,7 +10,7 @@ output:
 ---
  
 #### Email: oa832@nyu.edu; ornobalam@icddrb.org
-#### Website: [ornobalam.github.io](https://ornobalam.github.io)
+#### Website: [ornobalam.github.io](ornobalam.github.io)
 
 ### Education 
 New York University, New York, NY, USA\

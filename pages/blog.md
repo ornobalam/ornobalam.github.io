@@ -15,13 +15,15 @@ output: html_document
 <table style="padding:50px" border=0>
   <tr>
     <td> 
-         <img src="../assets/denovo.png"  alt="1" width = 200px height = 200px ></td>
+         <img src="../assets/denovo.png"  alt="1" width = 200px height = 200px,
+         object-fit:scale-down></td>
       
  <td>Move over, Neolithic ancestors: Designer domesticates are here</td>
   </tr>
   <tr>
     <td> 
-         <img src="../assets/ratchet.png"  alt="2" width = 200px height = 200px ></td>
+         <img src="../assets/ratchet.png"  alt="2" width = 200px height = 200px,
+         object-fit:scale-down></td>
       
  <td>Returning to the bench</td>
   </tr>
