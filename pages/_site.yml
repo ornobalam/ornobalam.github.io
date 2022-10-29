@@ -1,0 +1,10 @@
+name: "Rmarkdown with navbar"                                
+output_dir: "."
+navbar:
+  title: "Rmarkdown with navbar"                            
+  type: inverse
+  right:
+    - text: "research"
+      href: "..//assets/CV.html"                  
+output:
+  html_document:
