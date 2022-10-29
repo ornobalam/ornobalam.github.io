@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+subtitle: Where I chronicle my experiences as a graduate student and practice my science communication skills
 output: html_document
 
 ---
