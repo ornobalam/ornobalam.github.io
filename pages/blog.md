@@ -1,11 +1,15 @@
 ---
 layout: page
+title: Blog
 output: html_document
 
 ---
 
 <img align="left" width="80" height="80" src="../assets/logo.webp" alt="Genome Inquirer">
-# iOS - Genome Inquirer
+# Genome Inquirer
+&nbsp  
+&nbsp  
+&nbsp  
 
 <table style="padding:10px" border=0>
   <tr>
