@@ -30,16 +30,20 @@ Scientific Writer (remote), March 2022- Present
 
 New York University, New York, USA\
 Graduate Teaching Assistant\
-a.	Applied Genomics, January 2022- May 2022\
-b.	Principles of Biology I, September 2020- December 2020  
+&emsp;&emsp;Applied Genomics, January 2022- May 2022\
+&emsp;&emsp;Principles of Biology I, September 2020- December 2020  
 
 Nature Portfolio, Springer Nature, New York, USA\
 Editorial Fellow, June 2021- August 2021  
 
 Independent University, Bangladesh, Dhaka, Bangladesh\
 January 2016- August 2019\
-a.	Lecturer, School of Life Sciences\
-b.	Research Associate, Center for Health, Population, and Development  
+a. Lecturer, School of Life Sciences. Primarily:  
+&emsp;&emsp;Microbiology\
+&emsp;&emsp;Immunology\
+&emsp;&emsp;Introductory Biology\
+&emsp;&emsp;Readings in Biochemistry\
+b. Research Associate, Center for Health, Population, and Development  
 
 Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA\
 Research Associate, Sabra Klein’s Lab, September 2014- May 2015 
@@ -128,17 +132,17 @@ Bash scripting
 Building bioinformatics pipelines using Nextflow  
 
 Next-generation sequencing and genomic analyses:\
-a, DNA extractions from herbarium/historical specimens\
-b, Library prep\
-c. Variant calling  
+&emsp;&emsp;DNA extractions from herbarium/historical specimens\
+&emsp;&emsp;Library prep\
+&emsp;&emsp;Variant calling  
 
 Population genetics methods and analyses:\
-a. Population structure analyses and clustering\
-b. Admixture graph modeling\
-c. Estimating population size and separating history\
-d. Coalescent and forward simulations\
-e. Demographic inference\
-f. Approximate Bayesian computation (ABC)\
-g. Ancestral recombination graph inference\
-h. Selection scans and analyses
+&emsp;&emsp;Population structure analyses and clustering\
+&emsp;&emsp;Admixture graph modeling\
+&emsp;&emsp;Estimating population size and separating history\
+&emsp;&emsp;Coalescent and forward simulations\
+&emsp;&emsp;Demographic inference\
+&emsp;&emsp;Approximate Bayesian computation (ABC)\
+&emsp;&emsp;Ancestral recombination graph inference\
+&emsp;&emsp;Selection scans and analyses
 
