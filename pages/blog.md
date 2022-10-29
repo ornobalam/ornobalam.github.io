@@ -12,8 +12,8 @@ output: html_document
  </tr>
  <tr>
     <td>
-         <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         <a href="../assets/climate_thumbnail.jpeg">
+         <img src="https://www.qries.com/images/banner_logo.png"
          width=150" height="70">
       </a>
     </td>
