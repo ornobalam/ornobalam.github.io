@@ -2,6 +2,9 @@
 layout: page
 title: Research
 output: html_document
+navbar:
+  structure:
+    right: [CV,research,blog]
 ---
 
 Completed and ongoing projects in Michael Puruggaan's lab at NYU, where I am a PhD student:
