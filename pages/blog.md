@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Genome Inquirer
 output: html_document
 
 ---
+
+<img align="left" width="80" height="80" src="../assets/logo.webp" alt="The Genome Inquirer">
 
 <table style="padding:10px">
   <tr>
