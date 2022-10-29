@@ -6,7 +6,7 @@ output: html_document
 
 ---
 
-<img align="left" width="80" height="80" src="../assets/logo.png" alt="Genome Inquirer">
+<img align="left" width="40" height="40" src="../assets/logo.png" alt="Genome Inquirer">
 # Genome Inquirer
 &nbsp;  
 &nbsp;  
