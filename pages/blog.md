@@ -6,7 +6,7 @@ output: html_document
 
 ---
 
-<img align="left" width="40" height="40" src="../assets/logo.png" alt="Genome Inquirer">
+<img align="left" width="30" height="30" src="../assets/logo.png" alt="Genome Inquirer">
 # Genome Inquirer
 &nbsp;  
 &nbsp;  
@@ -15,6 +15,6 @@ output: html_document
 <table style="padding:50px" border=0>
   <tr>
     <td> 
-         <img src="../assets/climate_thumbnail.jpeg"  alt="1" width = 279px height = 496px ></td>
+         <img src="../assets/denovo.png"  alt="1" width = 279px height = 496px ></td>
       
- <td>nevermind</td>
+ <td>Move over, Neolithic ancestors: Designer domesticates are here</td>
