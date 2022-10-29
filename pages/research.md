@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Research
 output: html_document
 
