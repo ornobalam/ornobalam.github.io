@@ -7,14 +7,10 @@ output: html_document
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px"></b></td>
-    <td><b style="font-size:30px"></b></td>
- </tr>
- <tr>
     <td>
-         <a href="../assets/climate_thumbnail.jpeg">
-         <img src="https://www.qries.com/images/banner_logo.png"
-         width=150" height="70">
+         <a href="Oryza sativa">
+         <img src="h../assets/climate_thumbnail.jpeg"
+         width=150" height="70"/>
       </a>
     </td>
     <td>Elaborate description
