@@ -6,8 +6,7 @@ output:
     toc: yes
     toc_depth: 3
   pdf_document:
-    toc: yes
-    toc_depth: '3'
+    toc: no
 ---
  
 #### Email: oa832@nyu.edu; ornobalam@icddrb.org
@@ -94,7 +93,7 @@ https://ecoevocommunity.nature.com/users/ornob-alam
 
 [Unmasking an ancient scourge](https://schaechter.asmblog.org/schaechter/2021/01/unmasking-an-ancient-scourge.html). Small Things Considered. 2021  
 
-Research highlights and explainers for icddr,b, for example: \
+Research highlights and explainers for icddr,b. Example: \
 [icddr,b scientists help reveal a striking geographical pattern of influenza virus epidemics in Bangladesh](https://www.icddrb.org/news-and-events/news?id=895). 2022  
 
 Designed, curated, and edited a blog featuring science communication articles by undergraduates in the (then) School of Life Sciences at Independent University, Bangladesh, March 2017- March 2019\
@@ -119,7 +118,8 @@ Designed and supervised a project on visualizing and analyzing human ancient gen
 
 ### Skills
 
-R  
+R\
+R Shiny. Example: [paleoRice](https://ornob.shinyapps.io/paleorice/)
 
 Python  
 
