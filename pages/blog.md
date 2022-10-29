@@ -17,12 +17,12 @@ output: html_document
     <td> 
          <img src="../assets/denovo.png"  alt="1" width = 279px height = 496px ></td>
       
- <td>Move over, Neolithic ancestors: Designer domesticates are here width = 279px height = 496px</td>
- 
+ <td>Move over, Neolithic ancestors: Designer domesticates are here</td>
+  </tr>
+  <tr>
     <td> 
-         <img src="../assets/ratchet.png"  alt="1" width = 279px height = 496px ></td>
+         <img src="../assets/ratchet.png"  alt="2" width = 279px height = 496px ></td>
       
- <td>Returning to the bench width = 279px height = 496px</td>
- 
+ <td>Returning to the bench</td>
   </tr>
 </table>
