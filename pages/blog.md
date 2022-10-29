@@ -9,7 +9,7 @@ output: html_document
  <tr>
     <td>
          <a href="Oryza sativa">
-         <img src="h../assets/climate_thumbnail.jpeg"
+         <img src="../assets/climate_thumbnail.jpeg"
          width=150" height="70"/>
       </a>
     </td>
