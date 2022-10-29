@@ -5,8 +5,8 @@ output: html_document
 
 ---
 
-
-![](../assets/climate_thumbnail.jpeg)  |  ![](elaborate description
+:-------------------------:|:-------------------------:
+![](../assets/climate_thumbnail.jpeg)  | ![](elaborate description
 
 
 elaborate description
