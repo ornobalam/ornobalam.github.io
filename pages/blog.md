@@ -8,7 +8,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
 
 
 <table style="padding:200px" border=0>
-  <tr>
+  <tr height=50vw >
     <td> 
          <img src="../assets/denovo.png"  alt="13" width = 200vw height = 200vw 
          display =block margin= 50vw>
@@ -16,7 +16,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>
  <td>Move over, Neolithic ancestors: Designer domesticates are here</td>
   </tr>
-  <tr>
+  
+  
+  <tr height=50vw>
     <td> 
          <img src="../assets/ratchet.png"  alt="12" width = 200vw height = 200vw
          display =block margin= 50vw></td>
