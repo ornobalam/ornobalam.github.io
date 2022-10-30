@@ -6,7 +6,7 @@ output: html_document
 
 ---
 
-<img src="../assets/logo.png" style="position:absolute;top:0px;right:0px;" />
+<img src="../assets/logo.png" width = 20px height = 20px style="position:absolute;top:0px;left:0px;" />
 
 Where I chronicle my experiences as a graduate student and practice my science communication skills  
 
