@@ -9,8 +9,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
 ---
 
 
-<table style="padding:200px" border-collapse=collapse>
-  <tr border-bottom = "1pt solid black"" >
+<table style="padding:20px">
+  <tr >
     <td> 
          <img src="../assets/denovo.png"  alt="13" width = 150vw height = 150vw 
          display =block margin= 50vw>
@@ -18,9 +18,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>
  <td>Move over, Neolithic ancestors: Designer domesticates are here</td>
   </tr>
+</table>
 
-
-
+<table style="padding:20px">
   <tr >
     <td> 
          <img src="../assets/ratchet.png"  alt="12" width = 150vw height = 150vw
@@ -28,8 +28,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>Returning to the bench</td>
   </tr>
+</table>
 
-
+<table style="padding:20px">
   <tr>
     <td> 
          <img src="../assets/origin.png"  alt="11" width = 150px height = 150px
@@ -37,9 +38,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>On the trail of evolutionary origin stories</td>
   </tr>
-  
+</table> 
 
-  
+<table style="padding:20px"> 
   <tr>
     <td> 
          <img src="../assets/pca.png"  alt="10" width = 150px height = 150px
@@ -47,9 +48,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>I study population genetics. What does that mean?</td>
   </tr>
-  
+</table>  
 
-  
+<table style="padding:20px">
   <tr>
     <td> 
          <img src="../assets/epidemic.png"  alt="9" width = 150px height = 150px
@@ -57,9 +58,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>Tutorial: Building a simple epidemic model on R</td>
   </tr>
-  
+</table>  
 
-  
+<table style="padding:20px">
   <tr>
     <td> 
          <img src="../assets/beer.png"  alt="8" width = 150px height = 250px
@@ -67,9 +68,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>An invisible domesticate: The tangled history of beer</td>
   </tr>
-  
+</table>  
 
-  
+<table style="padding:20px">  
   <tr>
     <td> 
          <img src="../assets/popsci.png"  alt="7" width = 150px height = 150px
@@ -77,9 +78,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
 <td>&emsp;&emsp;</td>    
  <td>Popular science books: An appreciation post</td>
   </tr>
-  
----
-  
+</table> 
+
+<table style="padding:20px">  
   <tr>
     <td> 
          <img src="../assets/bud.png"  alt="6" width = 150px height = 150px
@@ -87,9 +88,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>A budding interest in plants</td>
   </tr>
-  
+</table> 
 
-  
+<table style="padding:20px">
   <tr>
     <td> 
          <img src="../assets/abudhabi.jpg"  alt="5" width = 150px height = 150px
@@ -97,9 +98,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
 <td>&emsp;&emsp;</td>      
  <td>Host-transposon conflict in light of hybridization</td>
   </tr>
+</table>
 
-
-
+<table style="padding:20px">
   <tr>
     <td> 
          <img src="../assets/risk.jpg"  alt="4" width = 150px height = 150px
@@ -107,19 +108,19 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>Could high genetic diversity increase extinction risk?</td>
   </tr>
-  
+</table>  
 
-  
-  <tr>
+  <table style="padding:20px">
+   <tr>
     <td> 
          <img src="../assets/coverage.png"  alt="3" width = 150px height = 150px
          object-fit:cover></td>
  <td>&emsp;&emsp;</td>      
  <td>Tutorial: Depth of coverage analysis</td>
   </tr>
+</table>
 
-
-
+<table style="padding:20px">
   <tr>
     <td> 
          <img src="../assets/mito.png"  alt="2" width = 150px height = 150px
@@ -127,9 +128,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>The quiet wars of mitochondria</td>
   </tr>
-  
+</table>  
 
-  
+<table style="padding:20px"> 
   <tr>
     <td> 
          <img src="../assets/theme.png"  alt="1" width = 150px height = 150px
@@ -137,8 +138,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>The beginning</td>
   </tr>
-  
+ </table> 
 
   
   
-</table>
