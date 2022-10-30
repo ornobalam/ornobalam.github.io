@@ -1,19 +1,15 @@
 ---
 layout: page
-title: "Genome Inquirer"
-#title: "<img src=\"../assets/logo.png\"  width = 20px height = 20px style=\"float: left;\"/> #&ensp;Genome Inquirer"
-description: Where I chronicle my experiences as a graduate student and practice my science communication skills
+#title: "Genome Inquirer"
+title: "<img src=\"../assets/logo.png\"  width = 20px height = 20px style=\"float: left;\"/> #&ensp;Genome Inquirer"
+permalink: /genomeinquirer/
 output: html_document:
-            includes:
-            - \usepackage{fancyhdr}
+
 
 
 ---
 
-\addtolength{\headheight}{1.0cm} 
-\pagestyle{fancyplain} 
-\lhead{\includegraphics[height=1.2cm]{../assets/logo.png}} 
-\renewcommand{\headrulewidth}{0pt}
+
 
 
 Where I chronicle my experiences as a graduate student and practice my science communication skills  
