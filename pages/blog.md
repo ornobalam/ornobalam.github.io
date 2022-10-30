@@ -1,7 +1,7 @@
 ---
 layout: page
-menu: "Genome Inquirer"
-title: "<img src=\"../assets/logo.png\" alt=\"see\" width = 20px height = 20px style=\"float: left;\"/> &ensp;Genome Inquirer"
+title: "Genome Inquirer"
+<title>{{<img src=\"../assets/logo.png\"  width = 20px height = 20px style=\"float: left;\"/> &ensp;page.title }}</title>
 output: html_document
 
 ---
