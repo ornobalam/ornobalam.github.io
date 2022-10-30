@@ -3,15 +3,10 @@ layout: page
 title: "Genome Inquirer"
 #title: "<img src=\"../assets/logo.png\"  width = 20px height = 20px style=\"float: left;\"/> #&ensp;Genome Inquirer"
 description: Where I chronicle my experiences as a graduate student and practice my science communication skills
-output: html_document
+output: html_document:
+            includes:
+                in_header: header.html
 
----
-
-```{r, echo=FALSE}
-htmltools::img(src = knitr::image_uri(file.path(R.home("doc"), "html", "../assets/logo.png")), 
-               alt = 'logo', 
-               style = 'position:absolute; top:0; right:0; padding:10px;')
-```
 
 ---
 
