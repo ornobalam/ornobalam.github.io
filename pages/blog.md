@@ -16,7 +16,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
          display =block margin= 50vw>
          </td>
  <td>&emsp;&emsp;</td>
- <td style="width:70%">Move over, Neolithic ancestors: Designer domesticates are here</td>
+ <td style="width:70%">Move over, Neolithic ancestors. Designer domesticates are here</td>
   </tr>
 </table>
 ---
