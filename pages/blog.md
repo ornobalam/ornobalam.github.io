@@ -6,6 +6,8 @@ output: html_document
 
 ---
 
+<img src="../assets/logo.png" style="position:absolute;top:0px;right:0px;" />
+
 Where I chronicle my experiences as a graduate student and practice my science communication skills  
 
 ---
