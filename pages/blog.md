@@ -19,7 +19,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Move over, Neolithic ancestors: Designer domesticates are here</td>
   </tr>
 </table>
-
+---
 <table style="padding:20px">
   <tr >
     <td> 
@@ -29,7 +29,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Returning to the bench</td>
   </tr>
 </table>
-
+---
 <table style="padding:20px">
   <tr>
     <td> 
@@ -39,7 +39,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>On the trail of evolutionary origin stories</td>
   </tr>
 </table> 
-
+---
 <table style="padding:20px"> 
   <tr>
     <td> 
@@ -49,7 +49,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>I study population genetics. What does that mean?</td>
   </tr>
 </table>  
-
+---
 <table style="padding:20px">
   <tr>
     <td> 
@@ -59,7 +59,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Tutorial: Building a simple epidemic model on R</td>
   </tr>
 </table>  
-
+---
 <table style="padding:20px">
   <tr>
     <td> 
@@ -69,7 +69,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>An invisible domesticate: The tangled history of beer</td>
   </tr>
 </table>  
-
+---
 <table style="padding:20px">  
   <tr>
     <td> 
@@ -79,7 +79,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Popular science books: An appreciation post</td>
   </tr>
 </table> 
-
+---
 <table style="padding:20px">  
   <tr>
     <td> 
@@ -89,7 +89,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>A budding interest in plants</td>
   </tr>
 </table> 
-
+---
 <table style="padding:20px">
   <tr>
     <td> 
@@ -99,7 +99,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Host-transposon conflict in light of hybridization</td>
   </tr>
 </table>
-
+---
 <table style="padding:20px">
   <tr>
     <td> 
@@ -109,7 +109,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Could high genetic diversity increase extinction risk?</td>
   </tr>
 </table>  
-
+---
   <table style="padding:20px">
    <tr>
     <td> 
@@ -119,7 +119,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Tutorial: Depth of coverage analysis</td>
   </tr>
 </table>
-
+---
 <table style="padding:20px">
   <tr>
     <td> 
@@ -129,7 +129,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>The quiet wars of mitochondria</td>
   </tr>
 </table>  
-
+---
 <table style="padding:20px"> 
   <tr>
     <td> 
