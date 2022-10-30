@@ -1,10 +1,12 @@
 ---
 layout: page
 title: "Genome Inquirer"
-<title>{{<img src=\"../assets/logo.png\"  width = 20px height = 20px style=\"float: left;\"/> &ensp;page.title }}</title>
 output: html_document
 
 ---
+
+<title>{{<img src=\"../assets/logo.png\"  width = 20px height = 20px style=\"float: left;\"/> &ensp;page.title }}</title>
+
 Where I chronicle my experiences as a graduate student and practice my science communication skills  
 
 ---
