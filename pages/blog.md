@@ -10,16 +10,16 @@ Where I chronicle my experiences as a graduate student and practice my science c
 <table style="padding:200px" border=0>
   <tr>
     <td> 
-         <img src="../assets/denovo.png"  alt="13" width = 10vw height = 10vw 
-         display =block margin= 2vw>
+         <img src="../assets/denovo.png"  alt="13" width = 200vw height = 200vw 
+         display =block margin= 50vw>
          </td>
  <td>&emsp;&emsp;</td>
  <td>Move over, Neolithic ancestors: Designer domesticates are here</td>
   </tr>
   <tr>
     <td> 
-         <img src="../assets/ratchet.png"  alt="12" width = 200px height = 200px
-         object-fit:cover></td>
+         <img src="../assets/ratchet.png"  alt="12" width = 200vw height = 200vw
+         display =block margin= 50vw></td>
  <td>&emsp;&emsp;</td>     
  <td>Returning to the bench</td>
   </tr>
