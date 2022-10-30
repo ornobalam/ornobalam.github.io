@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "<img src=\"../assets/logo.png\"  width = 20px height = 20px style=\"float: left;\"/> &ensp;Genome Inquirer"
+title: "Genome Inquirer"
 permalink: /genomeinquirer/
 output: html_document
 
 ---
 
-<img src="../assets/logo.png" width = 20px height = 20px style="position:absolute;top:0px;left:0px;" />
+<img src="../assets/logo.png" width = 20px height = 20px style="position:absolute;top:30px;left:2000px;" />
 
 Where I chronicle my experiences as a graduate student and practice my science communication skills  
 
