@@ -5,10 +5,15 @@ title: "Genome Inquirer"
 description: Where I chronicle my experiences as a graduate student and practice my science communication skills
 output: html_document:
             includes:
-                in_header: header.html
+            - \usepackage{fancyhdr}
 
 
 ---
+
+\addtolength{\headheight}{1.0cm} 
+\pagestyle{fancyplain} 
+\lhead{\includegraphics[height=1.2cm]{../assets/logo.png}} 
+\renewcommand{\headrulewidth}{0pt}
 
 
 Where I chronicle my experiences as a graduate student and practice my science communication skills  
