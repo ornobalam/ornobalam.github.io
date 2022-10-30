@@ -10,7 +10,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
 
 
 <table style="padding:20px">
-  <tr onclick="window.location='https://thegenomeinquirer.wordpress.com/2021/02/12/move-over-neolithic-ancestors-its-the-age-of-designer-domesticates/'" >
+  <tr style="cursor: pointer;" onclick="window.location='https://thegenomeinquirer.wordpress.com/2021/02/12/move-over-neolithic-ancestors-its-the-age-of-designer-domesticates/'" >
     <td> 
          <img src="../assets/denovo.png"  alt="13" width = 150vw height = 150vw 
          display =block margin= 50vw>
