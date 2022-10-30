@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Genome Inquirer"
 title: "<img src=\"../assets/logo.png\"  width = 20px height = 20px style=\"float: left;\"/> &thinsp;Genome Inquirer"
 description: Where I chronicle my experiences as a graduate student and practice my science communication skills
 output: html_document
