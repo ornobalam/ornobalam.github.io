@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<img src=\"../assets/logo.png\" width = 20px height = 20px style=\"float: left;\"/> &emsp;&emsp;Genome Inquirer"
+title: "<img src=\"../assets/logo.png\" width = 20px height = 20px style=\"float: left;\"/> &emsp;Genome Inquirer"
 output: html_document
 
 ---
