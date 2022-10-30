@@ -1,12 +1,13 @@
 ---
 layout: page
+
+<img src="../assets/logo.png" width = 20px height = 20px style="float:left;"/>
 title: "Genome Inquirer"
 permalink: /genomeinquirer/
 output: html_document
 
 ---
 
-<img src="../assets/logo.png" width = 20px height = 20px style="position:absolute;top:30px;left:30px;" />
 
 Where I chronicle my experiences as a graduate student and practice my science communication skills  
 
