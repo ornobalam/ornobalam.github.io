@@ -18,8 +18,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>
  <td>Move over, Neolithic ancestors: Designer domesticates are here</td>
   </tr>
-  
-  
+
+---  
+
   <tr >
     <td> 
          <img src="../assets/ratchet.png"  alt="12" width = 150vw height = 150vw
@@ -27,7 +28,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>Returning to the bench</td>
   </tr>
-  
+
+---
   
   <tr>
     <td> 
@@ -37,6 +39,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>On the trail of evolutionary origin stories</td>
   </tr>
   
+---
+  
   <tr>
     <td> 
          <img src="../assets/pca.png"  alt="10" width = 150px height = 150px
@@ -44,6 +48,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>I study population genetics. What does that mean?</td>
   </tr>
+  
+---
   
   <tr>
     <td> 
@@ -53,6 +59,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Tutorial: Building a simple epidemic model on R</td>
   </tr>
   
+---
+  
   <tr>
     <td> 
          <img src="../assets/beer.png"  alt="8" width = 150px height = 250px
@@ -60,6 +68,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>An invisible domesticate: The tangled history of beer</td>
   </tr>
+  
+---
   
   <tr>
     <td> 
@@ -69,6 +79,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Popular science books: An appreciation post</td>
   </tr>
   
+---
+  
   <tr>
     <td> 
          <img src="../assets/bud.png"  alt="6" width = 150px height = 150px
@@ -77,6 +89,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>A budding interest in plants</td>
   </tr>
   
+---
   
   <tr>
     <td> 
@@ -85,7 +98,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
 <td>&emsp;&emsp;</td>      
  <td>Host-transposon conflict in light of hybridization</td>
   </tr>
-  
+
+---
+
   <tr>
     <td> 
          <img src="../assets/risk.jpg"  alt="4" width = 150px height = 150px
@@ -94,6 +109,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>Could high genetic diversity increase extinction risk?</td>
   </tr>
   
+---
+  
   <tr>
     <td> 
          <img src="../assets/coverage.png"  alt="3" width = 150px height = 150px
@@ -101,7 +118,9 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>      
  <td>Tutorial: Depth of coverage analysis</td>
   </tr>
-  
+
+---
+
   <tr>
     <td> 
          <img src="../assets/mito.png"  alt="2" width = 150px height = 150px
@@ -110,6 +129,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>The quiet wars of mitochondria</td>
   </tr>
   
+---
+  
   <tr>
     <td> 
          <img src="../assets/theme.png"  alt="1" width = 150px height = 150px
@@ -117,6 +138,8 @@ Where I chronicle my experiences as a graduate student and practice my science c
  <td>&emsp;&emsp;</td>     
  <td>The beginning</td>
   </tr>
+  
+---
   
   
 </table>
