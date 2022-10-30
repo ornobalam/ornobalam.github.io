@@ -10,7 +10,7 @@ output:
 ---
  
 #### Email: oa832@nyu.edu; ornobalam@icddrb.org
-#### Website: [ornobalam.github.io](ornobalam.github.io)
+#### Website: [ornobalam.github.io](https://ornobalam.github.io)
 
 ### Education 
 New York University, New York, NY, USA\
@@ -101,7 +101,7 @@ https://ecoevocommunity.nature.com/users/ornob-alam
 Research highlights and explainers for icddr,b. Example: \
 [icddr,b scientists help reveal a striking geographical pattern of influenza virus epidemics in Bangladesh](https://www.icddrb.org/news-and-events/news?id=895). 2022  
 
-Designed, curated, and edited a blog featuring science communication articles by undergraduates in the (then) School of Life Sciences at Independent University, Bangladesh, March 2017- March 2019\
+Designed, curated, and edited a blog featuring science communication articles by undergraduates in the School of Life Sciences at Independent University, Bangladesh, March 2017- March 2019\
 http://herebedragonssls.blogspot.com
 
 ### Honors & Awards 
@@ -118,7 +118,7 @@ Facilitator, [Respect is a Part of Research](http://www.respectispartofresearch.
 RPR is a peer-to-peer workshop for first-year PhD students in the Biology department that serves as a space for open discussions on the best steps to take in a situation in which members may experience or witness disrespectful behavior  
 
 Mentor, [Summer Undergraduate Research Program](https://as.nyu.edu/departments/biology/outreach/surp.html) (SURP), June 2021- August 2021\
-Designed and supervised a project on visualizing and analyzing human ancient genetic data, led by talented (then) undergraduate Temima Yellin over the summer and the subsequent academic year
+Designed and supervised a project on visualizing and analyzing human ancient genetic data, led by talented undergraduate Temima Yellin over the summer and the subsequent academic year
 
 
 ### Skills
