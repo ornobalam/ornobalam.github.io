@@ -1,10 +1,9 @@
 ---
 layout: page
-
-<img src="../assets/logo.png" width = 20px height = 20px style="float:left;"/>
 title: "Genome Inquirer"
 permalink: /genomeinquirer/
 output: html_document
+  
 
 ---
 
