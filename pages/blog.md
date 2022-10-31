@@ -7,6 +7,10 @@ output:
   
 ---
 
+```{js, echo = FALSE}
+title=document.getElementById('header');
+title.innerHTML = '<img src="../assets/logo.png" alt="Test Image">' + title.innerHTML
+```
 
 Where I chronicle my experiences as a graduate student and practice my science communication skills  
 
