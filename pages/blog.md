@@ -2,9 +2,11 @@
 layout: page
 title: "Genome Inquirer"
 permalink: /genomeinquirer/
-output: html_document
+output: 
+  html_document:
+    include:
+      before_body: /assets/header.html
   
-
 ---
 
 
