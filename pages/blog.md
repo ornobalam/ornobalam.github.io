@@ -25,7 +25,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
 </table>
 ---
 <table style="padding:20px">
-  <tr >
+  <tr style="cursor: pointer;" onclick="window.location='https://ornobalam.github.io/returntobench'">
     <td> 
          <img src="../assets/ratchet.png"  alt="12" width = 150vw height = 150vw
          display =block margin= 50vw></td>

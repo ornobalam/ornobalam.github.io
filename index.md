@@ -5,7 +5,7 @@ description: Ornob Alam is a PhD candidate at New York University.
 keywords: Ornob, Alam, population genetics, domestication, rice
 ---
 
-I am a PhD  student working studying the adaptive and demographic history of domesticated Asian rice in Michael Purugganan’s lab at New York University.  
+I am a PhD  student studying the adaptive and demographic history of domesticated Asian rice in Michael Purugganan’s lab at New York University.  
 
 
 
