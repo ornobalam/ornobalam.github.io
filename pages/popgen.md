@@ -140,14 +140,16 @@ The following lines of code can be run on Ubuntu. If you manually downloaded fil
   
     
     
+```
 # modify vcf file into a two-column format for efficient import and processing on R
 zcat ALL.chr21.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf  | sed /^#/d  | cut  -f '10-' | ./a.out | cut -f '1-2' > vcf_formatted
  
 # retrieve the id's of the individuals represented in the vcf file
 zcat ALL.chr21.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz  | sed -n /^#CHROM/p | tr '\t' '\n' | tail -n +10 > ids
+```
 The remaining code can be run on R. First, install (if needed) and load the required packages, read in the two-column formatted file, and convert it into a matrix.
 
-
+```
 # load up packages (and install them if needed)
 if(!require("Matrix")){
     install.packages("Matrix")
@@ -174,7 +176,8 @@ chr21 = sparseMatrix(i=x[,2], j=x[,1], x=1.0)
  
 # check dimensions
 print(dim(chr21))
-## [1]    2504 1105538
+```
+ [1]    2504 1105538
   
     
     
@@ -186,6 +189,7 @@ How would you plot the 2,504 individuals on a graph? Note that each site represe
   
     
     
+```
 # read in the metadata and take a look at the first few rows
 sample_names <- read.delim("20130606_g1k.ped")
 head(sample_names)
@@ -210,7 +214,7 @@ samples$Superpopulation = super[as.character(samples$Population)]
 # in our vcf file, the individuals are arranged alphatically, so arrange the individuals in 
 # the samples dataframe alphabetically
 samples %>% arrange(IndividualID) -> samples
-  
+```
     
     
 To perform the PCA, we are going to use a tool that allows us to specify how many principal components we want to compute. For the sake of computational speed, we will just do the first two. Since we are doing just two, we won’t know exactly what percentage of the variation is explained by each of the principal components, but the rule that PC1 explains more variation than PC2, which explains more variation than PC3, and so on, still holds.
@@ -219,7 +223,7 @@ To perform the PCA, we are going to use a tool that allows us to specify how man
     
 The left singular vectors (u) for our matrix represent variation between individuals, while the right singular vectors represent variation between sites. We are interested in the former.
 
-
+```
 # this will be necessary to standardize all the site data
 cm = colMeans(chr21)
  
@@ -236,7 +240,7 @@ samples_pc <- cbind(samples,pc)
 # plot the principal components while coloring the points by superpopulation
 ggplot(data = samples_pc, aes(y=PC2, x= PC1,color = Superpopulation))+
   geom_point()
-  
+```
     
     
 AFR = African, AMR = American, EAS = East Asian, EUR = European, SAS = South Asian
