@@ -117,6 +117,7 @@ We can now try to do a simple analysis with a VCF file. Download, if you’d lik
   
     
     
+```
 # download the vcf.gz (compressed vcf) file for chromosome 21
 wget http://ftp.ebi.ac.uk/1000g/ftp/release/20130502/ALL.chr21.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
  
@@ -130,7 +131,7 @@ wget http://ftp.ebi.ac.uk/1000g/ftp/phase3/20131219.populations.tsv
 # download the a.out file and rename it
 wget https://github.com/ornobalam/genomeinquirer/blob/master/a.out?raw=true
 mv a.out?raw=true a.out
-  
+```  
     
     
 The above can also be accomplished by going to the http links, and manually downloading the files through your browser.
