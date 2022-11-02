@@ -62,10 +62,8 @@ Investigated the effects of testosterone on the outcome of influenza infections 
 David Gilbert’s Lab at Florida State University, January 2012- May 2013\
 Performed molecular cloning of a gene relevant to the study of replication timing in embryonic stem cells
 
-### Academic Publications
+### Selected Publications
 Alam O, Yusuf R, Rahman O. The Impact of Partition on East Pakistan: Toward a More Nuanced Central Narrative. In [The 1947 Partition of British India: Forced Migration and Its Reverberations](https://spectrum.sagepub.in/book/the-1947-partition-of-British-India-Jennifer-Leaning-9789354792908/20), edited by Jennifer Leaning and Shubhangi Bhadada, pg. 129-156. 2022; SAGE Spectrum, ISBN-10: 9354792901  
-
-Khanna T… Alam O et al. Crowdsourcing Memories: Process of Narrative Collection of the Survivors of Partition. In [The 1947 Partition of British India: Forced Migration and Its Reverberations](https://spectrum.sagepub.in/book/the-1947-partition-of-British-India-Jennifer-Leaning-9789354792908/20), edited by Jennifer Leaning and Shubhangi Bhadada, pg. 103-128. 2022; SAGE Spectrum, ISBN-10: 9354792901  
 
 Choy JY… Alam O, Purugganan MD et al. [Ancestral polymorphisms shape the adaptive radiation of Metrosideros across the Hawaiian Islands](https://www.pnas.org/doi/10.1073/pnas.2023801118). Proceedings of the National Academy of Sciences. 2021, 118 (37) e2023801118; DOI: 10.1073/pnas.2023801118  
 
@@ -73,9 +71,9 @@ Alam O, Gutaker RM, Wu CC… Purugganan MD et al. [Genome analysis traces region
 
 Yeboah G… Alam O et al. [Analysis of OpenStreetMap Data Quality at Different Stages of a Participatory Mapping Process: Evidence from Slums in Africa and Asia](https://www.mdpi.com/2220-9964/10/4/265/htm). ISPRS International Journal of Geo-Information. 2021; 10(4):265. https://doi.org/10.3390/ijgi10040265  
 
-Improving Health in Slums Collaborative. [A protocol for a multi-site, spatially-referenced household survey in slum settings: methods for access, sampling frame construction, sampling, and field data collection](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0732-x). BMC Med Res Methodol. 2019;19(1):109. doi:10.1186/s12874-019-0732-x  
-
-Vom Steeg LG… Alam O, Klein SL  et al. [Age and testosterone mediate influenza pathogenesis in male mice](https://journals.physiology.org/doi/full/10.1152/ajplung.00352.2016). Am J Physiol Lung Cell Mol Physiol. 2016;311(6):L1234–L1244. doi:10.1152/ajplung.00352.2016 
+Vom Steeg LG… Alam O, Klein SL  et al. [Age and testosterone mediate influenza pathogenesis in male mice](https://journals.physiology.org/doi/full/10.1152/ajplung.00352.2016). Am J Physiol Lung Cell Mol Physiol. 2016;311(6):L1234–L1244. doi:10.1152/ajplung.00352.2016  
+  
+[Complete list](https://scholar.google.com/citations?user=HJ5AVqkAAAAJ&hl=en) on Google Scholar
 
 ### Conference Talks & Posters
 Alam O… Purugganan MD et al. Genome analysis traces regional dispersal of rice in Taiwan and Southeast Asia. Talk. Evolution. 2022  
