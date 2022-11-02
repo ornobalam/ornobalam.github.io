@@ -35,7 +35,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
 </table>
 ---
 <table style="padding:20px">
-  <tr>
+  <tr style="cursor: pointer;" onclick="window.location='https://ornobalam.github.io/evolutionaryorigin'">
     <td> 
          <img src="../assets/origin.png"  alt="11" width = 150px height = 150px
          object-fit:cover></td>
@@ -45,7 +45,7 @@ Where I chronicle my experiences as a graduate student and practice my science c
 </table> 
 ---
 <table style="padding:20px"> 
-  <tr>
+  <tr style="cursor: pointer;" onclick="window.location='https://ornobalam.github.io/popgenbasic'">
     <td> 
          <img src="../assets/pca.png"  alt="10" width = 150px height = 150px
          object-fit:cover></td>
