@@ -26,7 +26,8 @@ Using whole-genome resequencing of herbarium specimens of O. sativa collected by
 This project is broadly concerned with the accurate inference of population histories in non-model species. Demographic inference refers to the inference of demographic history — including population size changes and divergence times between populations — from whole- or partial genome sequencing data from a sample of individuals. This is a powerful tool to study past and ongoing processes shaping natural populations and has been widely applied in studies on recent human evolution, conservation genomics, and increasingly to non-model species. Most demographic inference methods employ theory and assumptions that are largely upheld for humans but frequently violated in species with different breeding systems and biology. Using mostly human-centric methods to study less understood non-model species requires further validation or adaptation of the tools to provide accurate and interpretable results. I am tackling this problem in the context of domesticated Asian rice (Oryza sativa) — specifically its non-traditional, U-shaped allele frequency spectrum and what that may imply about its biology — by making use of extensive, flexible simulations in an ABC (approximate Bayesian computation) framework and considering new ways to validate inferred population histories.
   
     
-      
+--------
+
       
 While I was a Research Associate at the Center for Health, Population, and Development in Independent University, Bangladesh:
 
