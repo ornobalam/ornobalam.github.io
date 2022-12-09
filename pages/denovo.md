@@ -7,6 +7,7 @@ output:
   
 ---
 
+![](../assets/denovo.png)
 
 Somewhere between reading [Jared Diamond](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552), joining a [lab that studies the evolution of rice](https://plantevolgen.org/), and adding quinoa to my palate, I’ve come to have a very domestication-centric view of the world. Domestication refers to a process through which new populations, species, or subspecies of crops and animals arise from wild progenitors due to conscious or unconscious selection mediated by humans. Neolithic hunter-gatherers [first started cultivating](https://www.sciencedirect.com/science/article/pii/S0169534708003479), and through selecting for desirable traits, domesticating crops such as wheat and barley more than ten thousand years ago. These innovations, which independently cropped up in a few sites across multiple continents, spread rapidly and led to a global transition from hunting and gathering to sedentary farming. Food surpluses, large populations, complex political economies, and major technological advances like writing directly followed.  
 
