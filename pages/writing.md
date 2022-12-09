@@ -15,7 +15,7 @@ output:
 
 <table style="padding:20px">
   <tr>
-    <td> </td>
+    <td>&emsp;&emsp; </td>
  <td style="width:70%" align ="right"><a href="https://ecoevocommunity.nature.com/posts/unbraiding-the-neanderthal-knot-in-human-evolutionary-history">Unbraiding the Neanderthal knot in human evolutionary history</a></td>
   </tr>
 </table>
