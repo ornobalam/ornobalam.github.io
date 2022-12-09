@@ -6,20 +6,21 @@ output:
   
 ---
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+<table style="padding:20px">
+  <tr>
+    <td> 
+        2022
+         </td>
+ <td style="width:70%">Nature Ecology & Evolution Community</td>
+  </tr>
+</table>
 
-| 2022 	| Nature Ecology & Evolution Community                                                                                                                                        	|
-|------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-|      	| [Unbraiding the Neanderthal knot in human evolutionary history](https://ecoevocommunity.nature.com/posts/unbraiding-the-neanderthal-knot-in-human-evolutionary-history)     	|
-|      	| [The dispersal of rice and rethinking the Austronesian expansion](https://ecoevocommunity.nature.com/posts/the-dispersal-of-rice-and-rethinking-the-austronesian-expansion) 	|
+<table style="padding:20px">
+  <tr>
+    <td> 
+        
+         </td>
+ <td style="width:70%">[Unbraiding the Neanderthal knot in human evolutionary history](https://ecoevocommunity.nature.com/posts/unbraiding-the-neanderthal-knot-in-human-evolutionary-history)</td>
+  </tr>
+</table>
+
