@@ -37,6 +37,6 @@ The Partition of British India into India and Pakistan in 1947 led to massive so
 
 I led the Bangladeshi arm of a project spearheaded by Jennifer Leaning and Shubhangi Bhadada at the Harvard Lakshmi Mittal and Family South Asia Institute, on the social impact of Partition in the region. I recruited and trained a team of undergraduates to identify and interview individuals who had migrated to East Pakistan from India in the aftermath of the 1947 Partition (or their descendants), in an effort to understand how their lives have been shaped by the migration. Based on the interviews, historical documents, and (a little) archival research, I co-wrote a chapter on the circumstances surrounding and following migration to East Pakistan after 1947. We highlight the possible roles on pre-Partition migration and kinship networks across Bengal, and new economic opportunities in East Pakistan in shaping patterns of migration to East Pakistan.
 
-[Read Chapter 5 of book](https://spectrum.sagepub.in/book/the-1947-partition-of-British-India-Jennifer-Leaning-9789354792908/20)
+[Free electronic version, navigate to chapter 5](https://spectrum.sagepub.in/book/the-1947-partition-of-British-India-Jennifer-Leaning-9789354792908/20)
 
 
