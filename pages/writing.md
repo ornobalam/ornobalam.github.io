@@ -6,17 +6,12 @@ output:
   
 ---
 
-<table style="padding:20px">
-  <tr>
-    <td>2022</td>
- <td style="text-align: right;">Nature Ecology & Evolution Community</td>
-  </tr>
-</table>
+#### 2022
 
-<table style="padding:20px">
-  <tr>
-    <td>&emsp;&emsp; </td>
- <td style="text-align: right;"><a href="https://ecoevocommunity.nature.com/posts/unbraiding-the-neanderthal-knot-in-human-evolutionary-history">Unbraiding the Neanderthal knot in human evolutionary history</a></td>
-  </tr>
-</table>
+
+Nature Ecology & Evolution Community
+ 
+
+![Unbraiding the Neanderthal knot in human evolutionary history](https://ecoevocommunity.nature.com/posts/unbraiding-the-neanderthal-knot-in-human-evolutionary-history)
+
 
