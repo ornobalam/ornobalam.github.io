@@ -6,12 +6,11 @@ output:
   
 ---
 
-#### 2022
-
-
-Nature Ecology & Evolution Community
+#### 2022 
  
-
-![Unbraiding the Neanderthal knot in human evolutionary history](https://ecoevocommunity.nature.com/posts/unbraiding-the-neanderthal-knot-in-human-evolutionary-history)
+ 
+Nature Ecology & Evolution Community 
+ 
+[Unbraiding the Neanderthal knot in human evolutionary history](https://ecoevocommunity.nature.com/posts/unbraiding-the-neanderthal-knot-in-human-evolutionary-history)
 
 
