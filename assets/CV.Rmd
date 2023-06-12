@@ -1,16 +1,13 @@
 ---
-title: "CV"
-author: "Ornob Alam"
-output:
+title: CV
+author: Ornob Alam
+output: 
   html_document:
-    toc: yes
-    toc_depth: 3
-  pdf_document:
-    toc: no
+    toc: true
+
 ---
  
 #### Email: oa832@nyu.edu; ornobalam@icddrb.org
-#### Website: [ornobalam.github.io](https://ornobalam.github.io)
 
 ### Education 
 New York University, New York, NY, USA\
@@ -27,27 +24,23 @@ B.Sc., Biological Science, 2013
  
 ### Employment History
 International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), Dhaka, Bangladesh\
-Scientific Writer (remote), March 2022- Present  
+**Scientific Writer**, March 2022- Present  
 
 New York University, New York, USA\
-Graduate Teaching Assistant\
-&emsp;&emsp;Applied Genomics, January 2022- May 2022\
-&emsp;&emsp;Principles of Biology I, September 2020- December 2020  
+**Graduate Teaching Assistant**\
+Applied Genomics, Spring 2022, 2023\
+Principles of Biology I, Fall 2021  
 
 Nature Portfolio, Springer Nature, New York, USA\
-Editorial Fellow, June 2021- August 2021  
+**Editorial Fellow**, June 2021- August 2021  
 
 Independent University, Bangladesh, Dhaka, Bangladesh\
 January 2016- August 2019\
-a. Lecturer, School of Life Sciences. Primarily:  
-&emsp;&emsp;Microbiology\
-&emsp;&emsp;Immunology\
-&emsp;&emsp;Introductory Biology\
-&emsp;&emsp;Readings in Biochemistry\
-b. Research Associate, Center for Health, Population, and Development  
+a. **Lecturer**, School of Life Sciences. Primarily Microbiology, Immunology, Introductory Biology, and Readings in Biochemistry\
+b. **Research Associate**, Center for Health, Population, and Development  
 
 Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA\
-Research Associate, Sabra Klein’s Lab, September 2014- May 2015 
+**Research Associate**, Sabra Klein’s Lab, September 2014- May 2015 
 
 ### Research
 Michael Purugganan’s Lab at New York University, May 2020- Present\
@@ -63,26 +56,32 @@ David Gilbert’s Lab at Florida State University, January 2012- May 2013\
 Performed molecular cloning of a gene relevant to the study of replication timing in embryonic stem cells
 
 ### Selected Publications
-Alam O, Yusuf R, Rahman O. The Impact of Partition on East Pakistan: Toward a More Nuanced Central Narrative. In [The 1947 Partition of British India: Forced Migration and Its Reverberations](https://spectrum.sagepub.in/book/the-1947-partition-of-British-India-Jennifer-Leaning-9789354792908/20), edited by Jennifer Leaning and Shubhangi Bhadada, pg. 129-156. 2022; SAGE Spectrum, ISBN-10: 9354792901  
+He Q, Tang S, Zhi H, Chen J, Zhang J, Liang H, **Alam O**, Li H, Zhang H, Xing L, Li X, Zhang W, Wang H, Shi J, Du H, Wu H, Wang L, Yang P, Xing L, Yan H, Song Z, Liu J, Wang H, Tian X, Qiao Z, Feng G, Guo R, Zhu W, Ren Y, Hao H, Li M, Zhang A, Guo E, Yan F, Li Q, Liu Y, Tian B, Zhao X, Jia R, Feng B, Zhang J, Wei J, Lai J, Jia G, Purugganan M, Diao X. [A graph-based genome and pan-genome variation of the model plant Setaria](https://www.nature.com/articles/s41588-023-01423-w). Nat Genet. 2023 Jun 8. doi: 10.1038/s41588-023-01423-w. Epub ahead of print. PMID: 37291196
 
-Choy JY… Alam O, Purugganan MD et al. [Ancestral polymorphisms shape the adaptive radiation of Metrosideros across the Hawaiian Islands](https://www.pnas.org/doi/10.1073/pnas.2023801118). Proceedings of the National Academy of Sciences. 2021, 118 (37) e2023801118; DOI: 10.1073/pnas.2023801118  
+**Alam O**, Yusuf R, Rahman O. The Impact of Partition on East Pakistan: Toward a More Nuanced Central Narrative. In: Leaning J, Bhadada S. [The 1947 Partition of British India: Forced Migration and Its Reverberations](https://spectrum.sagepub.in/book/the-1947-partition-of-British-India-Jennifer-Leaning-9789354792908/20). New Delhi, India: SAGE Spectrum; 2022. p. 129-156
 
-Alam O, Gutaker RM, Wu CC… Purugganan MD et al. [Genome analysis traces regional dispersal of rice in Taiwan and Southeast Asia](https://academic.oup.com/mbe/article/38/11/4832/6317837). Molecular Biology & Evolution. 2021; msab209, https://doi.org/10.1093/molbev/msab209  
+Choi JY, Dai X, **Alam O**, Peng JZ, Rughani P, Hickey S, Harrington E, Juul S, Ayroles JF, Purugganan MD, Stacy EA. [Ancestral polymorphisms shape the adaptive radiation of Metrosideros across the Hawaiian Islands](https://www.pnas.org/doi/10.1073/pnas.2023801118). Proc Natl Acad Sci U S A. 2021 Sep 14;118(37):e2023801118. doi: 10.1073/pnas.2023801118. PMID: 34497122; PMCID: PMC8449318
 
-Yeboah G… Alam O et al. [Analysis of OpenStreetMap Data Quality at Different Stages of a Participatory Mapping Process: Evidence from Slums in Africa and Asia](https://www.mdpi.com/2220-9964/10/4/265/htm). ISPRS International Journal of Geo-Information. 2021; 10(4):265. https://doi.org/10.3390/ijgi10040265  
+**Alam O**, Gutaker RM, Wu CC, Hicks KA, Bocinsky K, Castillo CC, Acabado S, Fuller D, d'Alpoim Guedes JA, Hsing YI, Purugganan MD. [Genome Analysis Traces Regional Dispersal of Rice in Taiwan and Southeast Asia. Mol Biol Evol](https://academic.oup.com/mbe/article/38/11/4832/6317837). 2021 Oct 27;38(11):4832-4846. doi: 10.1093/molbev/msab209. PMID: 34240169; PMCID: PMC8557449
 
-Vom Steeg LG… Alam O, Klein SL  et al. [Age and testosterone mediate influenza pathogenesis in male mice](https://journals.physiology.org/doi/full/10.1152/ajplung.00352.2016). Am J Physiol Lung Cell Mol Physiol. 2016;311(6):L1234–L1244. doi:10.1152/ajplung.00352.2016  
+Vom Steeg LG, Vermillion MS, Hall OJ, Alam O, McFarland R, Chen H, Zirkin B, Klein SL. [Age and testosterone mediate influenza pathogenesis in male mice](https://journals.physiology.org/doi/full/10.1152/ajplung.00352.2016). Am J Physiol Lung Cell Mol Physiol. 2016 Dec 1;311(6):L1234-L1244. doi: 10.1152/ajplung.00352.2016. Epub 2016 Nov 4. PMID: 27815260; PMCID: PMC5206399
   
 [Complete list](https://scholar.google.com/citations?user=HJ5AVqkAAAAJ&hl=en) on Google Scholar
 
 ### Conference Talks & Posters
-Alam O… Purugganan MD et al. Genome analysis traces regional dispersal of rice in Taiwan and Southeast Asia. Talk. Evolution. 2022  
+Probabilistic Modeling in Genomics 2023. Cold Spring Harbor Laboratory, New York, NY, USA. Poster  
 
-Alam O… Purugganan MD et al. Genome analysis traces regional dispersal of rice in Taiwan and Southeast Asia. Talk. Society for Molecular Biology and Evolution Meeting. 2021  
+Center for Genomics and Systems Biology Symposium XI, 2023. New York University Abu Dhabi, Abu Dhabi, UAE. Poster
 
-Alam O… Klein SL et al. Testosterone Protects Young and Old Male Mice Against Influenza A Virus Infection. Poster. 8th Annual Research on Aging Showcase Poster Competition, Johns Hopkins Bloomberg School of Public Health. 2015  
+New York Area Population Genetics 2023. Rockefeller University, New York, NY, USA. Poster
 
-Alam O & Gilbert DM. Is Late Replication Necessary for G9a-Mediated Methylation to Occur? Talk. Undergraduate Research and Creative Activities Awards Symposium, Florida State University. 2012
+Evolution 2022. Cleveland, OH, USA. Talk
+
+Society for Molecular Biology and Evolution 2021. Virtual. Talk
+
+8th Annual Research on Aging Showcase, 2015. Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA. Poster  
+
+Undergraduate Research and Creative Activities Awards Symposium, 2012. Florida State University, Tallahassee, FL, USA. Talk
 
 ### Science Communication
 [Research Highlights](https://www.nature.com/search?q=ornob+alam&journal=). Nature Genetics. August & September 2021  
@@ -122,27 +121,28 @@ Designed and supervised a project on visualizing and analyzing human ancient gen
 
 ### Skills
 
-R\
-R Shiny. Example: [paleoRice](https://ornob.shinyapps.io/paleorice/)
+**R**; R Shiny. Example: [paleoRice](https://ornob.shinyapps.io/paleorice/)
 
-Python  
+**Python**
 
-Bash scripting  
+**Bash** scripting  
 
-Building bioinformatics pipelines using Nextflow  
+Building bioinformatics pipelines using **Nextflow**
 
-Next-generation sequencing and genomic analyses:\
-&emsp;&emsp;DNA extractions from herbarium/historical specimens\
-&emsp;&emsp;Library prep\
-&emsp;&emsp;Variant calling  
+**Next-generation sequencing** and genomic analyses:\
+- DNA extractions from herbarium/historical specimens\
+- Library prep\
+- Variant calling  
 
-Population genetics methods and analyses:\
-&emsp;&emsp;Population structure analyses and clustering\
-&emsp;&emsp;Admixture graph modeling\
-&emsp;&emsp;Estimating population size and separating history\
-&emsp;&emsp;Coalescent and forward simulations\
-&emsp;&emsp;Demographic inference\
-&emsp;&emsp;Approximate Bayesian computation (ABC)\
-&emsp;&emsp;Ancestral recombination graph inference\
-&emsp;&emsp;Selection scans and analyses
+**Population genetics methods** and analyses:\
+- Population structure analyses and clustering\
+- Admixture graph modeling\
+- Estimating population size and separating history\
+- Coalescent and forward simulations\
+- Demographic inference\
+- Approximate Bayesian computation (ABC)\
+- Ancestral recombination graph inference\
+- Selection scans and analyses\
+- Gene-environment association analyses
+
 
