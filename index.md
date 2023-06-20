@@ -5,9 +5,11 @@ description: Ornob Alam is a PhD candidate at New York University.
 keywords: Ornob, Alam, population genetics, domestication, rice
 ---
 
-I am a PhD student studying the adaptive and demographic history of domesticated Asian rice in Michael Purugganan’s lab at New York University. My scientific interests beyond my own field of research include animal domestication, human population genetics and evolution, and evolutionary conflicts between hosts and pathogens. I am currently also working as a Scientific Writer at the international centre for diarrhoeal disease control, Bangladesh (icddr,b).
+I am a PhD student studying the post-domestication history of Asian rice in Michael Purugganan’s lab at New York University. I perform whole-genome sequencing of  historical specimens collected from herbaria and traditionally cultivated landraces, and leverage population and landscape genetics methods to reconstruct the timing and routes of the spread of domesticated rice and how it adapted while spreading to new climates and regions.
+
+I am also working as Scientific Writer at the international centre for diarrhoeal disease control, Bangladesh (icddr,b).
   
-In the past, I have conducted research on hormonal modulation of antiviral responses, health service delivery in slums in Bangladesh, and the social impact of the 1947 Partition of British India.
+Past research areas of focus include sex differences in responses to viral infection, health service delivery in slums in Bangladesh, and the social impact of the 1947 Partition of British India.
 
 
 
