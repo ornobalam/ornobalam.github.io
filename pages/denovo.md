@@ -6,7 +6,7 @@ output:
   html_document
   
 ---
-February 12, 2021  
+*February 12, 2021*
 
 
 ![](../assets/denovo_wide.png)

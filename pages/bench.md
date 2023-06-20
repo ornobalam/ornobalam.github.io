@@ -6,6 +6,9 @@ output:
   html_document
   
 ---
+October 10, 2020  
+
+ <img src="../assets/ratchet.png"  width="40%" height="40%">
 
 It’s been a few months since I last wrote here. I joined [Michael Purugganan’s](https://en.wikipedia.org/wiki/Michael_Purugganan) lab and spent the summer trying to infer the demographic history of rice in the context of the peopling of Island Southeast Asia via the [Austronesian expansion](https://en.wikipedia.org/wiki/Austronesian_peoples#Austronesian_expansion).  
   
