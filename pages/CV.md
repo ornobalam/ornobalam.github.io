@@ -1,4 +1,12 @@
+---
+layout: page
+title: CV
+author: "Ornob Alam
+output: 
+  html_document:
+    toc: true
 
+---
  
 #### Email: oa832@nyu.edu; ornobalam@icddrb.org
 #### Website: https://ornobalam.github.io/
