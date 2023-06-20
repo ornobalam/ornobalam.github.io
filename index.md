@@ -25,7 +25,7 @@ Past research areas of focus include sex differences in responses to viral infec
     <div class="row-fluid">
         <div class="span5">
             Ornob Alam<br/>
-            Email: oa832@nyu.edu<br/>
+            Email: oa832@nyu.edu, ornob.alam@icddrb.org <br/>
         </div>
 
         <div class="span2">
