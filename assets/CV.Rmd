@@ -130,12 +130,13 @@ Designed and supervised a project on visualizing and analyzing human ancient gen
 
 Building bioinformatics pipelines using **Nextflow**
 
-**Next-generation sequencing** and genomic analyses:\
+**Next-generation sequencing and bioinformatics**:\
 - DNA extractions from herbarium/historical specimens\
 - Library prep\
-- Variant calling  
+- Variant calling\
+- Different gene expression analyses\
 
-**Population genetics methods** and analyses:\
+**Population genetics analyses**:\
 - Population structure analyses and clustering\
 - Admixture graph modeling\
 - Estimating population size and separating history\
