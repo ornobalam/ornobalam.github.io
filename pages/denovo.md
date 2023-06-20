@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Move over, Neolithic ancestors. Designer domesticates are here"
+previous.url: /returntobench/
 permalink: /denovodomesticate/
 output: 
   html_document

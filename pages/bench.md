@@ -6,7 +6,7 @@ output:
   html_document
   
 ---
-October 10, 2020  
+*October 10, 2020*
 
  <img src="../assets/ratchet.png"  width="40%" height="40%">
 
