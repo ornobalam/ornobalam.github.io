@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 permalink: /research/
-output: 
+output:
   html_document
 
 ---
