@@ -15,7 +15,7 @@ The Austronesian expansion represents one of the largest pre-historic migrations
 
 The movement of Oryza sativa (Asian rice) into much of island Southeast Asia has also been linked to the Austronesian expansion, but whether rice agriculture in island Southeast Asia arrived from Taiwan remains unresolved. Collaborating with a team of population geneticists, archaeologists, and anthropologists, I reconstructed the routes of dispersal of O. sativa ssp. japonica rice to Taiwan and the northern Philippines using whole-genome resequencing of indigenous rice landraces coupled with archaeological and paleoclimate data. Our results indicate that traditional landraces grown in island Southeast Asia today likely has origins in mainland Southeast Asia, while Taiwanese indigenous landraces represent ancient hybrids between northern temperate varieties and tropical Southeast Asian varieties. 
  
-<img src="../assets/taiwan_summary.png"  width="40%" height="40%">
+<img src="../assets/taiwan_summary.png"  width="60%" height="60%">
 
 *Schematic model of the movement of japonica rice into Taiwan and SE Asia*
 
