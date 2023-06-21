@@ -133,7 +133,7 @@ Building bioinformatics pipelines using **Nextflow**
 - DNA extractions from herbarium/historical specimens\
 - Library prep\
 - Variant calling\
-- Different gene expression analyses
+- Differential gene expression analyses
 
 **Population genetics analyses**:\
 - Population structure analyses and clustering\
