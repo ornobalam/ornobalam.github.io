@@ -15,7 +15,7 @@ The Austronesian expansion represents one of the largest pre-historic migrations
 
 The movement of Oryza sativa (Asian rice) into much of island Southeast Asia has also been linked to the Austronesian expansion, but whether rice agriculture in island Southeast Asia arrived from Taiwan remains unresolved. Collaborating with a team of population geneticists, archaeologists, and anthropologists, I reconstructed the routes of dispersal of O. sativa ssp. japonica rice to Taiwan and the northern Philippines using whole-genome resequencing of indigenous rice landraces coupled with archaeological and paleoclimate data. Our results indicate that traditional landraces grown in island Southeast Asia today likely has origins in mainland Southeast Asia, while Taiwanese indigenous landraces represent ancient hybrids between northern temperate varieties and tropical Southeast Asian varieties. 
  
-<img src="../assets/taiwan_summary.png"  width="50%" height="50%">
+<img src="../assets/taiwan_summary.png"  width="40%" height="40%">
 
 *Schematic model of the movement of japonica rice into Taiwan and SE Asia*
 
@@ -31,7 +31,7 @@ Using whole-genome resequencing of herbarium specimens of O. sativa collected by
 
 This project is broadly concerned with the accurate inference of population histories in non-model species. Demographic inference refers to the inference of demographic history — including population size changes and divergence times between populations — from whole- or partial genome sequencing data from a sample of individuals. This is a powerful tool to study past and ongoing processes shaping genetic diversity in natural populations and has been widely applied in studies on recent human evolution. Most demographic inference methods employ theory and assumptions that are largely upheld for humans but frequently violated in species with different breeding systems and biology. Using mostly human-centric methods to study less understood non-model species requires further validation or adaptation of the tools to provide accurate and interpretable results. I am tackling this problem in the context of domesticated Asian rice (Oryza sativa) — specifically its non-traditional, U-shaped allele frequency spectrum and what that may imply about its biology — by making use of extensive, flexible simulations in an ABC (approximate Bayesian computation) framework and considering new ways to validate inferred population histories.
 
- <img src="../assets/usfs.png"  width="40%" height="40%">
+ <img src="../assets/usfs.png"  width="80%" height="80%">
  
  *U-shaped site frequency spectra of temperate and tropical japonica rice*
 
