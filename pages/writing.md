@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Science writing"
+permalink: /writing/
 output: 
   html_document
   
