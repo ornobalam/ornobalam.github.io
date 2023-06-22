@@ -54,6 +54,26 @@ _Nature Ecology & Evolution Community_
  
 [Genomic windows into ancient epidemics](https://ecoevocommunity.nature.com/posts/genomic-windows-into-ancient-epidemics) 
  
+_Nature Genetics, Research Highlights_ 
+ 
+[RNA demethylation for increased crop yields](https://www.nature.com/articles/s41588-021-00937-5) 
+ 
+[In silico saturation mutagenesis of cancer genes](https://www.nature.com/articles/s41588-021-00940-w) 
+ 
+[Bottleneck size and selection level reproducibly impact evolution of antibiotic resistance](https://www.nature.com/articles/s41588-021-00939-3) 
+ 
+[A single-cell-type transcriptomics map of human tissues](https://www.nature.com/articles/s41588-021-00938-4) 
+ 
+[Sickle-cell anemia gene therapy](https://www.nature.com/articles/s41588-021-00918-8) 
+ 
+[Cultural and genetic interplay](https://www.nature.com/articles/s41588-021-00915-x) 
+ 
+[Coronavirus footprints](https://www.nature.com/articles/s41588-021-00916-w) 
+ 
+[Single-cell spatial sequencing](https://www.nature.com/articles/s41588-021-00919-7) 
+ 
+[Hybrid potato genetics](https://www.nature.com/articles/s41588-021-00917-9)
+ 
 _Small Things Considered_ 
  
 [Unmasking an ancient scourge](https://schaechter.asmblog.org/schaechter/2021/01/unmasking-an-ancient-scourge.html) 
