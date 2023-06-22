@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Move over, Neolithic ancestors. Designer domesticates are here"
-previous.url: /returntobench/
+date: February 12, 2021
+categories: paper highlight
+tags: crop domestication, rice
 permalink: /denovodomesticate/
 output: 
   html_document
