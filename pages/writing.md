@@ -8,19 +8,38 @@ output:
 
 #### 2023 
  
-_iccdr,b_ 
+_icddr,b_ 
  
-[Your genes likely determine your risk of diarrhoea](https://www.icddrb.org/news-and-events/features?id=35)
+[Your genes likely determine your risk of diarrhoea](https://www.icddrb.org/news-and-events/features?id=35) 
+ 
+[Evolving marriage dynamics in rural Bangladesh](https://blog.icddrb.org/2023/04/20/evolving-marriage-dynamics-in-rural-bangladesh/)
 
 #### 2022 
  
+_icddr,b_ 
+ 
+[icddr,b study highlights need for more effective antibiotic stewardship in the country](https://www.icddrb.org/news-and-events/news?id=899&task=view) 
+ 
+[icddr,b scientists help reveal a striking geographical pattern of influenza virus epidemics in Bangladesh](https://www.icddrb.org/news-and-events/news?id=895&task=view) 
+ 
+[Genomics at icddr,b — redefining infectious disease surveillance in Bangladesh](https://www.icddrb.org/news-and-events/features?id=34&task=view)
+ 
+[New insights for measuring community transmission of SARS-CoV-2 in Dhaka](https://www.icddrb.org/news-and-events/news?id=893&task=view) 
+ 
+[Poor ventilation may be driving increased risk of SARS-CoV-2 exposure across Bangladeshi hospitals](https://www.icddrb.org/news-and-events/news?id=892&task=view) 
  
 _Nature Ecology & Evolution Community_
  
 [Unbraiding the Neanderthal knot in human evolutionary history](https://ecoevocommunity.nature.com/posts/unbraiding-the-neanderthal-knot-in-human-evolutionary-history) 
  
 #### 2021 
-
+ 
+_Molecular Ecologist_ 
+ 
+[These worms develop differently depending on their parents’ genes — even the ones they don’t inherit](https://www.molecularecologist.com/2021/09/06/a-genomic-whodunit-implicates-all-involved/) 
+ 
+[Genomic windows into ancient climate change](https://www.molecularecologist.com/2021/05/04/genomic-windows-into-ancient-climate-change/) 
+ 
 _Nature Ecology & Evolution Community_
  
 [The House That Alu Built](https://ecoevocommunity.nature.com/posts/the-house-that-alu-built) 
@@ -35,11 +54,14 @@ _Nature Ecology & Evolution Community_
  
 [Genomic windows into ancient epidemics](https://ecoevocommunity.nature.com/posts/genomic-windows-into-ancient-epidemics) 
  
-_Molecular Ecologist_ 
+_Small Things Considered_ 
  
-[These worms develop differently depending on their parents’ genes — even the ones they don’t inherit](https://www.molecularecologist.com/2021/09/06/a-genomic-whodunit-implicates-all-involved/) 
+[Unmasking an ancient scourge](https://schaechter.asmblog.org/schaechter/2021/01/unmasking-an-ancient-scourge.html) 
  
-[Genomic windows into ancient climate change](https://www.molecularecologist.com/2021/05/04/genomic-windows-into-ancient-climate-change/)
+_TwilightBeasts_ 
+ 
+[In cold pursuit](https://twilightbeasts.org/2021/05/28/in-cold-pursuit/)
+
 
 
 
