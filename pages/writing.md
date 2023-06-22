@@ -6,6 +6,12 @@ output:
   
 ---
 
+#### 2023 
+ 
+_iccdr,b_ 
+ 
+[Your genes likely determine your risk of diarrhoea](https://www.icddrb.org/news-and-events/features?id=35)
+
 #### 2022 
  
  
@@ -27,7 +33,13 @@ _Nature Ecology & Evolution Community_
  
 [Why we age: A new window into an old evolutionary problem](https://ecoevocommunity.nature.com/posts/why-we-age-a-new-window-into-an-old-evolutionary-problem) 
  
-[Genomic windows into ancient epidemics](https://ecoevocommunity.nature.com/posts/genomic-windows-into-ancient-epidemics)
+[Genomic windows into ancient epidemics](https://ecoevocommunity.nature.com/posts/genomic-windows-into-ancient-epidemics) 
+ 
+_Molecular Ecologist_ 
+ 
+[These worms develop differently depending on their parents’ genes — even the ones they don’t inherit](https://www.molecularecologist.com/2021/09/06/a-genomic-whodunit-implicates-all-involved/) 
+ 
+[Genomic windows into ancient climate change](https://www.molecularecologist.com/2021/05/04/genomic-windows-into-ancient-climate-change/)
 
 
 
