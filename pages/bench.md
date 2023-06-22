@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Returning to the bench"
+date: October 10, 2020
 permalink: /returntobench/
 output: 
   html_document
   
 ---
-*October 10, 2020*
 
  <img src="../assets/ratchet.png"  width="40%" height="40%">
 

@@ -11,11 +11,11 @@ It’s been a month since my end-of-first-year qualifying exam, and I’ve been 
   
   
 
-My assigned paper, entitled Cnidarian Cell Type Diversity and Regulation Revealed by Whole-Organism Single-Cell RNA-Seq, was in many ways a modern take on the classic evolutionary biology paradigm of inferring the deep evolutionary past by comparing living organisms in the present. Evolutionary biologists often ask questions about origins. When and how did modern humans evolve? How did a structure as complex as the eye originate? When and how many times was Asian rice domesticated? How ancient are the genes used by mammals to fight viruses? Now, this paper’s findings on the origins of animal cell types made me think about how questions about origins and the tools used to answer them have evolved over the years.
+My assigned paper, entitled [Cnidarian Cell Type Diversity and Regulation Revealed by Whole-Organism Single-Cell RNA-Seq](https://www.cell.com/cell/fulltext/S0092-8674(18)30596-8?), was in many ways a modern take on the classic evolutionary biology paradigm of inferring the deep evolutionary past by comparing living organisms in the present. Evolutionary biologists often ask questions about origins. When and how did modern humans evolve? How did a structure as complex as the eye originate? When and how many times was Asian rice domesticated? How ancient are the genes used by mammals to fight viruses? Now, this paper’s findings on the origins of animal cell types made me think about how questions about origins and the tools used to answer them have evolved over the years.
   
     
     
-Human fascination with the origins of natural phenomena isn’t new. Throughout human history, and until the 19th century, this preoccupation resulted in thousands of myths and theories. Darwin’s discovery of the theory of evolution by natural selection, and its implication of common evolutionary origin of very different organisms including humans represented the birth of a comparative approach to reconstructing biological origin stories.
+Human fascination with the origins of natural phenomena isn’t new. Throughout human history, and until the 19th century, this preoccupation resulted in thousands of [myths](https://www.metmuseum.org/toah/hd/epic/hd_epic.htm) and [theories](https://en.wikipedia.org/wiki/Lamarckism). Darwin’s discovery of the theory of evolution by natural selection, and its implication of common evolutionary origin of very different organisms including humans represented the birth of a comparative approach to reconstructing biological origin stories.
   
     
     
@@ -35,7 +35,7 @@ Reconstructing the origins of genes, functions, or traits based on DNA sequences
   
     
     
-Functional conservation or differentiation of genes can sometimes be studied through experiments in cultured cells or model organisms, for instance by knocking out a gene and seeing its effects. In recent years, several studies have reconstructed ancestral genes based on the sequences of modern homologs, and actually expressed them in cells in order to assess their original function. A Nature study this year employed this approach to study the evolution of vertebrate hemoglobin, retracing the duplications and mutations that led to the origin of the tetrameric (having four protein units) modern hemoglobin from a monomeric (one protein unit) ancestral form more than 400 million years ago.
+Functional conservation or differentiation of genes can sometimes be studied through experiments in cultured cells or model organisms, for instance by knocking out a gene and seeing its effects. In recent years, several studies have reconstructed ancestral genes based on the sequences of modern homologs, and actually expressed them in cells in order to assess their original function. A [Nature study](https://www.nature.com/articles/s41586-020-2292-y) this year employed this approach to study the evolution of vertebrate hemoglobin, retracing the duplications and mutations that led to the origin of the tetrameric (having four protein units) modern hemoglobin from a monomeric (one protein unit) ancestral form more than 400 million years ago.
   
     
     
@@ -43,7 +43,7 @@ The development of single-cell RNA sequencing, which measures the expression of 
   
      
      
-My quals paper, published in Cell in 2018 performed single-cell RNA sequencing of every single cell from entire individuals of the sea anemone Nematostella vectensis. Sea anemones belong to a group called cnidarians, which diverged from a common ancestor that also led to bilaterians, which include everything from fruit flies and worms to frogs and humans. Therefore, comparisons between cnidarian and bilaterian species can yield inferences about their shared ancestor, and provide insight on whether specific traits evolved in bilaterians or had already existed before their divergence from the cnidarian-bilaterian ancestor more than 600 million years ago.
+My [quals paper](https://www.cell.com/cell/fulltext/S0092-8674(18)30596-8?), published in Cell in 2018 performed single-cell RNA sequencing of every single cell from entire individuals of the sea anemone _Nematostella vectensis_. Sea anemones belong to a group called cnidarians, which diverged from a common ancestor that also led to bilaterians, which include everything from fruit flies and worms to frogs and humans. Therefore, comparisons between cnidarian and bilaterian species can yield inferences about their shared ancestor, and provide insight on whether specific traits evolved in bilaterians or had already existed before their divergence from the cnidarian-bilaterian ancestor more than 600 million years ago.
   
     
     
@@ -55,14 +55,14 @@ Cells were classified based on the expression of genes with known function, or t
   
     
     
-This approach revealed, among other findings, a highly diverse repertoire of nerve cells or neurons. The authors then identified genes that were uniquely expressed in each Nematostella cell type and asked how old they were. If a gene that was only expressed in Nematostella neurons was found to be present only in cnidarians, it would be considered younger than a gene that was expressed in both cnidarians and bilaterians, in which case it must have arisen before the divergence of the two groups.
+This approach revealed, among other findings, a highly diverse repertoire of nerve cells or neurons. The authors then identified genes that were uniquely expressed in each _Nematostella_ cell type and asked how old they were. If a gene that was only expressed in _Nematostella_ neurons was found to be present only in cnidarians, it would be considered younger than a gene that was expressed in both cnidarians and bilaterians, in which case it must have arisen before the divergence of the two groups.
   
     
     
-They found that while many neuron-specific genes are indeed ancient and existed before the divergence of cnidarians and bilaterians, a larger proportion of neuron-specific genes in Nematostella are only found in cnidarians. This suggests that neurons in cnidarians underwent functional diversification after splitting from the cnidarian-bilaterian ancestor. The ancestor therefore likely contained cells with neuronal or near-neuronal function, but it is hard to infer exactly how complex its neuronal gene repertoire was.
+They found that while many neuron-specific genes are indeed ancient and existed before the divergence of cnidarians and bilaterians, a larger proportion of neuron-specific genes in _Nematostella_ are only found in cnidarians. This suggests that neurons in cnidarians underwent functional diversification after splitting from the cnidarian-bilaterian ancestor. The ancestor therefore likely contained cells with neuronal or near-neuronal function, but it is hard to infer exactly how complex its neuronal gene repertoire was.
   
     
     
-It’s still early days for the single-cell revolution, but it’s clear that its tools will be key in identifying mechanisms underlying key functional innovations, through allowing exploration of evolutionary change at the finer scales of cell types and networks of genes.
+It’s still early days for the [single-cell revolution](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6), but it’s clear that its tools will be key in identifying mechanisms underlying key functional innovations, through allowing exploration of evolutionary change at the finer scales of cell types and networks of genes.
   
     
