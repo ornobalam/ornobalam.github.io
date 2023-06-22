@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On the trail of evolutionary origin stories"
+date: June 15, 2020
 permalink: /evolutionaryorigin/
 output: 
   html_document
@@ -14,6 +15,7 @@ It’s been a month since my end-of-first-year qualifying exam, and I’ve been 
 My assigned paper, entitled [Cnidarian Cell Type Diversity and Regulation Revealed by Whole-Organism Single-Cell RNA-Seq](https://www.cell.com/cell/fulltext/S0092-8674(18)30596-8?), was in many ways a modern take on the classic evolutionary biology paradigm of inferring the deep evolutionary past by comparing living organisms in the present. Evolutionary biologists often ask questions about origins. When and how did modern humans evolve? How did a structure as complex as the eye originate? When and how many times was Asian rice domesticated? How ancient are the genes used by mammals to fight viruses? Now, this paper’s findings on the origins of animal cell types made me think about how questions about origins and the tools used to answer them have evolved over the years.
   
     
+![](../assets/origin_full.png)
     
 Human fascination with the origins of natural phenomena isn’t new. Throughout human history, and until the 19th century, this preoccupation resulted in thousands of [myths](https://www.metmuseum.org/toah/hd/epic/hd_epic.htm) and [theories](https://en.wikipedia.org/wiki/Lamarckism). Darwin’s discovery of the theory of evolution by natural selection, and its implication of common evolutionary origin of very different organisms including humans represented the birth of a comparative approach to reconstructing biological origin stories.
   
