@@ -64,7 +64,7 @@ Choi JY, Dai X, **Alam O**, Peng JZ, Rughani P, Hickey S, Harrington E, Juul S, 
 
 **Alam O**, Gutaker RM, Wu CC, Hicks KA, Bocinsky K, Castillo CC, Acabado S, Fuller D, d'Alpoim Guedes JA, Hsing YI, Purugganan MD. [Genome Analysis Traces Regional Dispersal of Rice in Taiwan and Southeast Asia. Mol Biol Evol](https://academic.oup.com/mbe/article/38/11/4832/6317837). 2021 Oct 27;38(11):4832-4846. doi: 10.1093/molbev/msab209. PMID: 34240169; PMCID: PMC8557449
 
-Vom Steeg LG, Vermillion MS, Hall OJ, Alam O, McFarland R, Chen H, Zirkin B, Klein SL. [Age and testosterone mediate influenza pathogenesis in male mice](https://journals.physiology.org/doi/full/10.1152/ajplung.00352.2016). Am J Physiol Lung Cell Mol Physiol. 2016 Dec 1;311(6):L1234-L1244. doi: 10.1152/ajplung.00352.2016. Epub 2016 Nov 4. PMID: 27815260; PMCID: PMC5206399
+Vom Steeg LG, Vermillion MS, Hall OJ, **Alam O**, McFarland R, Chen H, Zirkin B, Klein SL. [Age and testosterone mediate influenza pathogenesis in male mice](https://journals.physiology.org/doi/full/10.1152/ajplung.00352.2016). Am J Physiol Lung Cell Mol Physiol. 2016 Dec 1;311(6):L1234-L1244. doi: 10.1152/ajplung.00352.2016. Epub 2016 Nov 4. PMID: 27815260; PMCID: PMC5206399
   
 [Complete list](https://scholar.google.com/citations?user=HJ5AVqkAAAAJ&hl=en) on Google Scholar
 
@@ -116,7 +116,7 @@ Facilitator, [Respect is a Part of Research](http://www.respectispartofresearch.
 RPR is a peer-to-peer workshop for first-year PhD students in the Biology department that serves as a space for open discussions on the best steps to take when members experience or witness disrespectful behavior in a workplace or workplace-adjacent context
 
 Mentor, [Summer Undergraduate Research Program](https://as.nyu.edu/departments/biology/outreach/surp.html) (SURP), June 2021- August 2021\
-Designed and supervised a project on visualizing and analyzing human ancient genetic data, led by talented undergraduate Temima Yellin over the summer and the subsequent academic year
+Designed and supervised a project on visualizing and analyzing human ancient genetic data, led by talented undergraduate Temima Yellin over the summer (and the subsequent academic year)
 
 
 ### Skills
