@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-author: "Ornob Alam
+author: Ornob Alam
 output: 
   html_document:
     toc: true
