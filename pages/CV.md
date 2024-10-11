@@ -58,7 +58,7 @@ David Gilbert’s Lab at Florida State University, January 2012- May 2013\
 Performed molecular cloning of a gene relevant to the study of replication timing in embryonic stem cells
 
 ### Selected Publications 
-**Alam O**, Purugganan MD. Domestication and the evolution of crops: variable syndromes, complex genetic architectures, and ecological entanglements. Plant Cell. 2024 May 1;36(5):1227-1241. doi: 10.1093/plcell/koae013. PMID: 38243576; PMCID: PMC11062453 
+**Alam O**, Purugganan MD. [Domestication and the evolution of crops: variable syndromes, complex genetic architectures, and ecological entanglements](https://academic.oup.com/plcell/article/36/5/1227/7577726). Plant Cell. 2024 May 1;36(5):1227-1241. doi: 10.1093/plcell/koae013. PMID: 38243576; PMCID: PMC11062453 
 
 He Q, Tang S, Zhi H, Chen J, Zhang J, Liang H, **Alam O**, Li H, Zhang H, Xing L, Li X, Zhang W, Wang H, Shi J, Du H, Wu H, Wang L, Yang P, Xing L, Yan H, Song Z, Liu J, Wang H, Tian X, Qiao Z, Feng G, Guo R, Zhu W, Ren Y, Hao H, Li M, Zhang A, Guo E, Yan F, Li Q, Liu Y, Tian B, Zhao X, Jia R, Feng B, Zhang J, Wei J, Lai J, Jia G, Purugganan M, Diao X. [A graph-based genome and pan-genome variation of the model plant Setaria](https://www.nature.com/articles/s41588-023-01423-w). Nat Genet. 2023 Jun 8. doi: 10.1038/s41588-023-01423-w. Epub ahead of print. PMID: 37291196
 
